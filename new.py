@@ -3,7 +3,7 @@ import requests
 import base64
 
 
-TOKEN = "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"
+TOKEN = "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"
 REPO = "thorsaramod/123"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
